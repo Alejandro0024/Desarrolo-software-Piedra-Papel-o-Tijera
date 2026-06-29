@@ -1,6 +1,5 @@
-readme_content = """# Desarrollo programa piedra papel o tijera
-
-Este repositorio contiene la implementación en Python del clásico juego de **Piedra, Papel o Tijera**, diseñado para ser ejecutado en la consola interactiva.
+## Nombre del Proyecto
+Desarrollo programa piedra papel o tijera
 
 ## Información del Proyecto
 * **Integrantes:** Alejandro Benalcazar
@@ -25,5 +24,6 @@ El programa cuenta con un flujo continuo basado en consola que ofrece las siguie
 6. **Actualización del Marcador en Tiempo Real:** Al concluir cada ronda, se incrementa el puntaje correspondiente del ganador y se imprime el marcador actual.
 7. **Cierre de Juego y Reporte Final:** Al ingresar `'Salir'`, el bucle se detiene inmediatamente y el sistema muestra un resumen detallado con la puntuación final de ambos competidores.
 
-## Código Fuente Incluido
-El script principal utiliza un bucle controlado de la siguiente manera:
+
+
+
