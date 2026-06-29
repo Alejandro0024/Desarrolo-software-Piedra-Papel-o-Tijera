@@ -4,7 +4,7 @@ Desarrollo programa piedra papel o tijera
 ## Información del Proyecto
 * **Integrantes:** Alejandro Benalcazar
 * **Fecha:** 2026-06-28
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python
 
 ## Objetivo del Sistema
 El objetivo principal de este programa es proporcionar una experiencia interactiva y lúdica mediante un juego de consola donde un usuario humano pueda competir contra la inteligencia artificial (CPU) en el juego de "Piedra, Papel o Tijera". 
